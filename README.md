@@ -71,9 +71,9 @@ Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
 <br>
 <p align="center">
   <a href="https://github.com/henriquesgi" target="_blank">
-    <img alt="Stats" title="Henrique's stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=henriquesgi&show_icons=true&hide_border=true&theme=calm" /> 
+    <img alt="Stats" title="Henrique's stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=henriquesgi&show_icons=true&hide_border=true&theme=calm" /> 
   </a>
   <a href="https://github.com/henriquesgi" target="_blank">
-  <img alt="Streak" title="Henrique's streak" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquesgi&hide_border=true&theme=calm&date_format=j%20M%5B%20Y%5D" />
+  <img alt="Streak" title="Henrique's streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquesgi&hide_border=true&theme=calm&date_format=j%20M%5B%20Y%5D" />
   </a>
 </p>
