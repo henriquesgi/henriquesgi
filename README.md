@@ -1,8 +1,5 @@
 ## Bem-vindo ao meu GitHub! :octocat:
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=henriquesgi&label=Visitas" alt="henriquesgi" title="Visitas" />
-</p>
 Não sei há quanto tempo sou desenvolvedor.
 
 Para falar a verdade, o meu primeiro hello word foi em uma pedra, durante o período Neolítico, ao lado da caverna em que Raul Seixas nasceu.
@@ -11,7 +8,7 @@ Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
 1. Estude inglês;
 2. Se você não sabe pesquisar, você não é um desenvolvedor;
 3. Não invente moda, faça o simples;
-4. Demore, mas não, nuca, jamais faça XGH!;
+4. Demore, mas não, nunca, jamais faça XGH!;
 5. Estude Clean Code, SOLID e Design Patterns;
 6. Por mais que você não goste de front-end, como é o meu caso, tenha algum conhecimento, uma hora você vai precisar.
 
