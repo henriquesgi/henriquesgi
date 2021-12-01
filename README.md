@@ -22,17 +22,14 @@ Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
   </a>
 </p>
 
-#### Vou aprender
+#### TODO
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
-  <a href="https://www.rust-lang.org/pt-BR" target="_blank">
-    <img alt="Rust" title="Rust" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  </a>
 </p>
 
-#### USE TUDO AQUI :point_down: E SEJA FELIZ!
+#### Use isso aqui :point_down: e seja feliz!
 <p>
   <a href="https://aws.amazon.com/" target="_blank">
     <img alt="Amazon Web Services" title="Amazon Web Services" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
