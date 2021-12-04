@@ -1,9 +1,5 @@
 ## Bem-vindo ao meu GitHub! :octocat:
 
-Não sei há quanto tempo sou desenvolvedor.
-
-Para falar a verdade, o meu primeiro hello word foi em uma pedra, durante o período Neolítico, ao lado da caverna em que Raul Seixas nasceu.
-
 Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
 1. Estude inglês;
 2. Se você não sabe pesquisar, você não é um desenvolvedor;
