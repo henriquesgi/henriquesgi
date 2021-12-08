@@ -23,6 +23,9 @@ Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img alt="Rust" title="Rust" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+  </a>
 </p>
 
 #### Facilite sua vida
