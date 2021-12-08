@@ -8,7 +8,7 @@ Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
 5. Estude Clean Code, SOLID e Design Patterns;
 6. Por mais que você não goste de front-end, como é o meu caso, tenha algum conhecimento, uma hora você vai precisar.
 
-#### IDDQD :godmode:
+#### Maior conhecimento
 <p>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" title="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -18,14 +18,14 @@ Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
   </a>
 </p>
 
-#### TODO
+#### Pretendo aprender
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
 </p>
 
-#### Use isso aqui :point_down: e seja feliz!
+#### Facilite sua vida
 <p>
   <a href="https://aws.amazon.com/" target="_blank">
     <img alt="Amazon Web Services" title="Amazon Web Services" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
