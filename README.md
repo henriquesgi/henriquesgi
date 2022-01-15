@@ -14,6 +14,9 @@ Criei um pequeno artigo sobre [como criar um bom código](https://github.com/hen
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" title="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" title="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img alt="TypeScript" title="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </a>
@@ -44,7 +47,7 @@ Criei um pequeno artigo sobre [como criar um bom código](https://github.com/hen
   </a>
 </p>
  
- #### Pretendo aprender
+#### Pretendo aprender
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -53,8 +56,8 @@ Criei um pequeno artigo sobre [como criar um bom código](https://github.com/hen
     <img alt="Rust" title="Rust" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   </a>
 </p>
-<br>
 
+<br>
 <p align="center">
   <a href="https://github.com/henriquesgi" target="_blank">
     <img alt="Stats" title="Henrique's stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=henriquesgi&show_icons=true&hide_border=true&theme=calm" /> 
