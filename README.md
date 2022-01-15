@@ -1,12 +1,13 @@
 ## Bem-vindo ao meu GitHub! :octocat:
 
 Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
-1. Estude inglês;
-2. Se você não sabe pesquisar, você não é um desenvolvedor;
-3. Não invente moda, faça o simples;
-4. Demore, mas não, nunca, jamais faça XGH!;
-5. Estude Clean Code, SOLID e Design Patterns;
+1. Estude inglês;  
+3. Se você não sabe pesquisar, você não é um desenvolvedor;
+4. Não invente moda, faça o simples;
+5. Demore, mas não, nunca, vá de XGH!;
 6. Por mais que você não goste de front-end, como é o meu caso, tenha algum conhecimento, uma hora você vai precisar.
+
+Criei um pequeno artigo sobre [como criar um bom código](https://github.com/henriquesgi/um-bom-codigo), confira, pode ser muito útil.  
 
 #### Maior conhecimento
 <p>
@@ -18,35 +19,13 @@ Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
   </a>
 </p>
 
-#### Pretendo aprender
-<p>
-  <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img alt="Rust" title="Rust" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  </a>
-</p>
-
-#### Facilite sua vida
+#### Conhecimento
 <p>
   <a href="https://aws.amazon.com/" target="_blank">
     <img alt="Amazon Web Services" title="Amazon Web Services" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   </a>
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img alt="Apache Kafka" title="Apache Kafka" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img alt="Firebase" title="Firebase" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" title="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img alt="GitHub" title="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank">
-    <img alt="GitLab" title="GitLab" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   </a>
   <a href="https://www.heroku.com/" target="_blank">
     <img alt="Heroku" title="Heroku" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
@@ -57,11 +36,25 @@ Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
   <a href="https://www.postgresql.org/" target="_blank">
     <img alt="PostgreSQL" title="PostgreSQL" height="32"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" title="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
   <a href="https://redis.io/" target="_blank">
     <img alt="Redis" title="Redis" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   </a>
 </p>
+ 
+ #### Pretendo aprender
+<p>
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img alt="Rust" title="Rust" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+  </a>
+</p>
 <br>
+
 <p align="center">
   <a href="https://github.com/henriquesgi" target="_blank">
     <img alt="Stats" title="Henrique's stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=henriquesgi&show_icons=true&hide_border=true&theme=calm" /> 
