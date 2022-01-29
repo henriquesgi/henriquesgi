@@ -27,6 +27,9 @@ Criei um pequeno artigo sobre [como criar um bom código](https://github.com/hen
   <a href="https://aws.amazon.com/" target="_blank">
     <img alt="Amazon Web Services" title="Amazon Web Services" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" title="Docker" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img alt="Firebase" title="Firebase" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   </a>
