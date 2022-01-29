@@ -1,4 +1,4 @@
-## Bem-vindo ao meu GitHub! :octocat:
+## Bem-vindo ao meu GitHub!
 
 Durante a minha caminhada como desenvolvedor aprendi algumas coisas, são elas:
 1. Estude inglês;  
