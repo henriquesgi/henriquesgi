@@ -3,10 +3,9 @@
 Durante a minha caminhada como desenvolvedor aprendi algumas coisas:
 1. Estude inglês;
 2. Se você não gosta de estudar é melhor tentar outro emprego;
-3. Se você não sabe pesquisar, você não é um desenvolvedor;
-4. Não invente moda, faça o simples;
-5. Demore, mas, não, nunca vá de XGH!;
-6. Por mais que você não goste de front-end, como é o meu caso, tenha algum conhecimento, uma hora você vai precisar.
+3. Não invente moda, faça o simples;
+4. Demore, mas nunca vá de XGH;
+5. Por mais que você não goste de front-end, tenha algum conhecimento, uma hora você vai precisar.
 
 Criei um pequeno artigo sobre [como criar um bom código](https://github.com/henriquesgi/um-bom-codigo), confira, pode ser muito útil.  
 Também tenho uma conta no [GitLab](https://gitlab.com/henriquesgl).  
