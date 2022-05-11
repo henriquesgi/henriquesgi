@@ -10,7 +10,7 @@ Durante a minha caminhada como desenvolvedor aprendi algumas coisas:
 Criei um pequeno artigo sobre [como criar um bom código](https://github.com/henriquesgi/um-bom-codigo), confira, pode ser muito útil.  
 Também tenho uma conta no [GitLab](https://gitlab.com/henriquesgl).  
 
-#### Maior conhecimento
+#### Maior conhecimento em:
 <p>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" title="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -23,7 +23,7 @@ Também tenho uma conta no [GitLab](https://gitlab.com/henriquesgl).
   </a>
 </p>
 
-#### Conhecimento
+#### Gosto de atuar com:
 <p>
   <a href="https://aws.amazon.com/" target="_blank">
     <img alt="Amazon Web Services" title="Amazon Web Services" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
@@ -43,16 +43,9 @@ Também tenho uma conta no [GitLab](https://gitlab.com/henriquesgl).
   <a href="https://www.postgresql.org/" target="_blank">
     <img alt="PostgreSQL" title="PostgreSQL" height="32"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" title="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
   <a href="https://redis.io/" target="_blank">
     <img alt="Redis" title="Redis" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   </a>
-</p>
- 
-#### Pretendo aprender
-<p>
   <a href="https://www.rust-lang.org/" target="_blank">
     <img alt="Rust" title="Rust" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   </a>
